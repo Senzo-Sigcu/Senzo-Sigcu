@@ -1,16 +1,16 @@
-## Hi there 👋
+# Senzo Sigcu
 
-<!--
-**Senzo-Sigcu/Senzo-Sigcu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity practitioner focused on hands-on technical security: offensive testing, and the defender's view of each attack.
 
-Here are some ideas to get you started:
+**Portfolio and lab write-ups:** https://senzo-sigcu.github.io/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I work on
+- Penetration testing and vulnerability assessment (Nmap, Metasploit, Burp Suite, Greenbone/GVM)
+- Web application security: OSINT, SQL injection, XSS, CSRF
+- Detection and log analysis: reading an attack back from the evidence it leaves behind
+
+## Background
+Postgraduate Diploma in Cybersecurity (NQF 8), Nelson Mandela University, built on a software-development foundation (Python, C#, ASP.NET, React).
+
+## Currently
+Documenting lab work end to end: each attack, the evidence it leaves, and the control that would have stopped it.
